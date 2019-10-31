@@ -1,1 +1,1 @@
-# Owner's Blog And Portfolio
+# Blog And Portfolio
